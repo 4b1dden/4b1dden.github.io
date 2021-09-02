@@ -1,0 +1,15 @@
+.header a {
+  margin: 10px;
+}
+.header {
+  margin-bottom: 1em;
+}
+#intro {
+  margin-top: 20px;
+}
+#content {
+  width: 60%;
+}
+.post {
+  margin: 1em;
+}
