@@ -1,0 +1,37 @@
+<html>
+  <center>
+    <div id="content">
+      this is just a small database of articles i liked and would like to preserve for future. tried to order according to my own personal relevance. most of these i've read, some are still tbr.
+    </div>
+  </center>
+</html>
+
+<script type="text/javascript" src="articles.js"></script>
+<script>
+  const defaultPrio = 100
+  const html = Object.keys(articles)
+    .map(articleCategory => 
+    `
+    <h3>${articleCategory}</h3>
+    ${articles[articleCategory]
+      .sort((a,b) => (a.prio || defaultPrio) - (b.prio || defaultPrio))
+      .map(article => `
+        <p>
+          <b>${article.title}</b>
+          <br> <a href="${article.href}">${article.href}</a>
+        </p>
+      `)
+      .join("")
+    }
+    `
+    ).join("")
+    
+  document.getElementById("content").innerHTML += html
+  
+</script>
+
+<style>
+  #content {
+    width: 60%;
+  }
+</style>

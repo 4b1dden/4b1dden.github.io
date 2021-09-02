@@ -1,0 +1,25 @@
+why fp matter
+
+"Such a catalogue of “advantages” is all very well, but one must not be surprised if outsiders don’t take it too seriously. It says a lot about what functional
+programming isn’t (it has no assignment, no side effects, no flow of control) but
+not much about what it is. The functional programmer sounds rather like a
+mediæval monk, denying himself the pleasures of life in the hope that it will
+make him virtuous. To those more interested in material benefits, these “advantages” are totally unconvincing."
+
+When writing a modular program to
+solve a problem, one first divides the problem into subproblems, then solves the
+subproblems, and finally combines the solutions. The ways in which one can
+divide up the original problem depend directly on the ways in which one can glue
+solutions together. Therefore, to increase one’s ability to modularize a problem
+conceptually, one must provide new kinds of glue in the programming language.
+Complicated scope rules and provision for separate compilation help only with
+clerical details — they can never make a great contribution to modularization.
+
+All this can be achieved because functional languages allow functions that are
+indivisible in conventional programming languages to be expressed as a combinations of parts — a general higher-order function and some particular specializing
+functions. Once defined, such higher-order functions allow many operations to
+be programmed very easily. Whenever a new datatype is defined, higher-order
+functions should be written for processing it. This makes manipulating the
+datatype easy, and it also localizes knowledge about the details of its representation. The best analogy with conventional programming is with extensible
+languages — in effect, the programming language can be extended with new
+control structures whenever desired.
