@@ -26,6 +26,9 @@ const articles = {
 	"title": "Unoriginal Rice Patty (Honda fob replay based attack)",
 	"href": "https://github.com/HackingIntoYourHeart/Unoriginal-Rice-Patty"
     },
+    {
+	"title": "Apple Just Declared War on Your Privacy",
+	"href": "https://edwardsnowden.substack.com/p/all-seeing-i"
   ],
   "resources": [
 	 {
