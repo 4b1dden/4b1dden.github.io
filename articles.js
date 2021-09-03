@@ -29,6 +29,7 @@ const articles = {
     {
 	"title": "Apple Just Declared War on Your Privacy",
 	"href": "https://edwardsnowden.substack.com/p/all-seeing-i"
+    }
   ],
   "resources": [
 	 {
