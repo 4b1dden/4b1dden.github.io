@@ -41,7 +41,8 @@ const articles = {
 	  },
 	  {
 		  "title": "20 Reasons To Quit Social Media",
-		  "href": "https://durmonski.com/life-advice/reasons-to-quit-social-media"
+		  "href": "https://durmonski.com/life-advice/reasons-to-quit-social-media",
+		  "prio": 3
 	  }
   ],
   "resources": [
