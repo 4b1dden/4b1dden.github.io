@@ -39,6 +39,10 @@ const articles = {
 		  "prio": 3,
 		  "href": "https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps"
 	  },
+	  {
+		  "title": "20 Reasons To Quit Social Media",
+		  "href": "https://durmonski.com/life-advice/reasons-to-quit-social-media"
+	  }
   ],
   "resources": [
 	 {
