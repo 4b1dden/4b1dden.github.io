@@ -33,7 +33,12 @@ const articles = {
     {
         "title": "The Michael Scott Theory of Social Class",
         "href": "https://alexdanco.com/2021/01/22/the-michael-scott-theory-of-social-class/"
-    }
+    },
+	  {
+		  "title": "Teaching by filling in knowledge gaps",
+		  "prio": 3,
+		  "href": "https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps"
+	  },
   ],
   "resources": [
 	 {
