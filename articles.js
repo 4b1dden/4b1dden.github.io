@@ -34,6 +34,10 @@ const articles = {
 	"title": "Apple Just Declared War on Your Privacy",
 	"href": "https://edwardsnowden.substack.com/p/all-seeing-i"
     },
+	  {
+		  "title": "How to replace estimations and guesses with a Monte Carlo simulation",
+		  "href": "https://lucasfcosta.com/2021/09/20/monte-carlo-forecasts.html"
+	  },
     {
         "title": "The Michael Scott Theory of Social Class",
         "href": "https://alexdanco.com/2021/01/22/the-michael-scott-theory-of-social-class/"
