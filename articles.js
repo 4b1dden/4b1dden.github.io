@@ -14,6 +14,10 @@ const articles = {
       "title": "How I experience web today",
       "href": "https://how-i-experience-web-today.com/",
     },
+	  {
+		  "title": "It takes a PhD to develop that",
+		  "href": "https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/"
+	  },
     {
       "title": "What I've Learned in 45 Years in the Software Industry",
       "href": "https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry"
