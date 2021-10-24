@@ -65,6 +65,10 @@ const articles = {
       "href": "https://dreamsongs.com/Files/BetterScienceThroughArt.pdf"
     },
 	  {
+		  "title": "A Theoretical Computer Science Perspective on Consciousness",
+		  "href": "https://arxiv.org/pdf/2011.09850.pdf",
+	  },
+	  {
 		  "title": "Why Functional Programming Matters",
 		  "href": "https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf",
 		  "prio": 5
