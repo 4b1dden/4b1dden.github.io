@@ -67,6 +67,7 @@ const articles = {
 	  {
 		  "title": "A Theoretical Computer Science Perspective on Consciousness",
 		  "href": "https://arxiv.org/pdf/2011.09850.pdf",
+		  "prio": 4
 	  },
 	  {
 		  "title": "Why Functional Programming Matters",
