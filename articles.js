@@ -22,6 +22,10 @@ const articles = {
       "title": "What I've Learned in 45 Years in the Software Industry",
       "href": "https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry"
     },
+	  {
+		  "title": "To Learn a New Language, Read Its Standard Library",
+		  "href": "http://patshaughnessy.net/2021/10/23/to-learn-a-new-language-read-its-standard-library"
+	  },
     {
       "title": "Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine",
       "href": "https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/"
