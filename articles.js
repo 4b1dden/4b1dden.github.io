@@ -66,7 +66,11 @@ const articles = {
 	 {
 		"title": "Build your own X",
 		 "href": "https://github.com/danistefanovic/build-your-own-x"
-	 }
+	 },
+   {
+     "title": "Engineering blogs",
+     "href": "https://engineeringblogs.xyz/"
+   }
   ],
   "academic": [
     {

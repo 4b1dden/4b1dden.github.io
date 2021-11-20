@@ -29,3 +29,6 @@ functions should be written for processing it. This makes manipulating the
 datatype easy, and it also localizes knowledge about the details of its representation. The best analogy with conventional programming is with extensible
 languages — in effect, the programming language can be extended with new
 control structures whenever desired.
+
+/// the nftbay guy
+The early internet was built on a gift economy (ie hippies) yet what people seek to build now is capitalistic and full of pump and dump schemes
