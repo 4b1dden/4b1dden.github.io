@@ -28,6 +28,11 @@ const articles = {
       "href": "https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry"
     },
 	  {
+		  "title": "The Lines of Code That Changed Everything",
+		  "href": "https://slate.com/technology/2019/10/consequential-computer-code-software-history.html",
+		  "prio": 2
+	  },
+	  {
 		  "title": "To Learn a New Language, Read Its Standard Library",
 		  "href": "http://patshaughnessy.net/2021/10/23/to-learn-a-new-language-read-its-standard-library"
 	  },
