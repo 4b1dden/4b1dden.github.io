@@ -20,6 +20,10 @@ const articles = {
       "href": "https://how-i-experience-web-today.com/",
     },
 	  {
+		  "title": "Multiplicative Systems",
+		  "href": "https://fs.blog/multiplicative-systems/"
+	  },
+	  {
 		  "title": "It takes a PhD to develop that",
 		  "href": "https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/"
 	  },
