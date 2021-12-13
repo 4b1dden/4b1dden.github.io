@@ -79,7 +79,11 @@ const articles = {
    {
      "title": "Engineering blogs",
      "href": "https://engineeringblogs.xyz/"
-   }
+   },
+	  {
+		  "title": "Learn You a Haskell",
+		  "href": "http://learnyouahaskell.com/"
+	  }
   ],
   "academic": [
     {
