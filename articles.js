@@ -83,6 +83,10 @@ const articles = {
 	  {
 		  "title": "Learn You a Haskell",
 		  "href": "http://learnyouahaskell.com/"
+	  },
+	  {
+		  "title": "Teach Yourself CS",
+		  "href": "https://teachyourselfcs.com/"
 	  }
   ],
   "academic": [
