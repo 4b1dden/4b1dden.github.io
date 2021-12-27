@@ -69,6 +69,14 @@ const articles = {
 		  "title": "20 Reasons To Quit Social Media",
 		  "href": "https://durmonski.com/life-advice/reasons-to-quit-social-media",
 		  "prio": 3
+	  },
+	  {
+		  "title":"Lab-Made? SARS-CoV-2 Genealogy Through the Lens of Gain-of-Function Research",
+		  "href": "https://yurideigin.medium.com/lab-made-cov2-genealogy-through-the-lens-of-gain-of-function-research-f96dd7413748"
+	  },
+	  {
+		  "title": "The origin of COVID: Did people or nature open Pandora’s box at Wuhan?",
+		  "href": "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/amp/"
 	  }
   ],
   "resources": [
