@@ -95,6 +95,10 @@ const articles = {
 	  {
 		  "title": "Teach Yourself CS",
 		  "href": "https://teachyourselfcs.com/"
+	  },
+	  {
+		  "title": "Mind Expanding Books",
+		  "href": "https://github.com/hackerkid/Mind-Expanding-Books"
 	  }
   ],
   "academic": [
