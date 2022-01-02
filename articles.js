@@ -61,6 +61,10 @@ const articles = {
         "href": "https://alexdanco.com/2021/01/22/the-michael-scott-theory-of-social-class/"
     },
 	  {
+		  "title": "[rust] What's In The Box?",
+		  "href": "https://fasterthanli.me/articles/whats-in-the-box"
+	  },
+	  {
 		  "title": "Teaching by filling in knowledge gaps",
 		  "prio": 3,
 		  "href": "https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps"
