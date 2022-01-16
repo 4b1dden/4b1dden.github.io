@@ -48,6 +48,10 @@ const articles = {
 	"title": "Unoriginal Rice Patty (Honda fob replay based attack)",
 	"href": "https://github.com/HackingIntoYourHeart/Unoriginal-Rice-Patty"
     },
+	  {
+		  "title": "Foundations of Functional Programming/The λ-cube",
+		  "href": "https://en.wikiversity.org/wiki/Foundations_of_Functional_Programming/The_%CE%BB-cube",
+	  },
     {
 	"title": "Apple Just Declared War on Your Privacy",
 	"href": "https://edwardsnowden.substack.com/p/all-seeing-i"
