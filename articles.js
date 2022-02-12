@@ -44,6 +44,10 @@ const articles = {
       "title": "Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine",
       "href": "https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/"
     },
+	  {
+		  "title": "Heuristics That Almost Always Work",
+		  "href": "https://astralcodexten.substack.com/p/heuristics-that-almost-always-work"
+	  },
     {
 	"title": "Unoriginal Rice Patty (Honda fob replay based attack)",
 	"href": "https://github.com/HackingIntoYourHeart/Unoriginal-Rice-Patty"
