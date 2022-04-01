@@ -49,6 +49,10 @@ const articles = {
 		  "href": "https://astralcodexten.substack.com/p/heuristics-that-almost-always-work"
 	  },
 	  {
+		  "title": "The Code Review Pyramid",
+		  "href": "https://www.morling.dev/blog/the-code-review-pyramid/?utm_source=hackernewsletter&utm_medium=email&utm_term=code",
+	  },
+	  {
 		  "title": "Maybe you should do less 'work'",
 		  "href": "https://www.johnwhiles.com/posts/work.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
 	  },
