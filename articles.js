@@ -48,6 +48,10 @@ const articles = {
 		  "title": "Heuristics That Almost Always Work",
 		  "href": "https://astralcodexten.substack.com/p/heuristics-that-almost-always-work"
 	  },
+	  {
+		  "title": "Maybe you should do less 'work'",
+		  "href": "https://www.johnwhiles.com/posts/work.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+	  },
     {
 	"title": "Unoriginal Rice Patty (Honda fob replay based attack)",
 	"href": "https://github.com/HackingIntoYourHeart/Unoriginal-Rice-Patty"
