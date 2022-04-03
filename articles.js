@@ -25,7 +25,7 @@ const articles = {
 	  },
 	  {
 		  "title": "Linear Algebra Guide",
-		  'href": "https://betterexplained.com/articles/linear-algebra-guide/"
+		  "href": "https://betterexplained.com/articles/linear-algebra-guide/"
 	  },
 	  {
 		  "title": "A Visual Intuitive Guide to Imaginary Numbers",
