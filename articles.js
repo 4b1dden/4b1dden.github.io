@@ -28,6 +28,10 @@ const articles = {
 		  'href": "https://betterexplained.com/articles/linear-algebra-guide/"
 	  },
 	  {
+		  "title": "A Visual Intuitive Guide to Imaginary Numbers",
+		  "href": "https://betterexplained.com/articles/a-visual-intuitive-guide-to-imaginary-numbers/"
+	  },
+	{
 		  "title": "It takes a PhD to develop that",
 		  "href": "https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/"
 	  },
