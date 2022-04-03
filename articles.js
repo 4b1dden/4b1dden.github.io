@@ -24,6 +24,10 @@ const articles = {
 		  "href": "https://fs.blog/multiplicative-systems/"
 	  },
 	  {
+		  "title": "Linear Algebra Guide",
+		  'href": "https://betterexplained.com/articles/linear-algebra-guide/"
+	  },
+	  {
 		  "title": "It takes a PhD to develop that",
 		  "href": "https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/"
 	  },
