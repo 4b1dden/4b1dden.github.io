@@ -15,6 +15,11 @@ const articles = {
 		  "href": "https://www.stephendiehl.com/blog/crypto-absurd.html",
 		  "prio": 3
 	  },
+	  {
+		  "title": "code comes in, art comes out",
+		  "href": "https://tylerxhobbs.com/essays/2019/code-goes-in-art-comes-out",
+	  },
+
     {
       "title": "How I experience web today",
       "href": "https://how-i-experience-web-today.com/",
