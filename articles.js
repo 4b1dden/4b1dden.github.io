@@ -146,7 +146,7 @@ const articles = {
     {
       "title": "Tackling the Awkward Squad: monadic input/output, concurrency, exceptions and foreign-language calls in Haskell",
       "href": "https://github.com/papers-we-love/papers-we-love/blob/master/languages/haskell/tackling-the-awkward-squad-monadic-input-output-concurrency-exceptions-and-foreign-language-calls-in-haskell.pdf"
-    }
+    },
 	  {
 		  "title": "A Theoretical Computer Science Perspective on Consciousness",
 		  "href": "https://arxiv.org/pdf/2011.09850.pdf",
