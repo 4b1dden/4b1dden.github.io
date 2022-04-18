@@ -94,6 +94,10 @@ const articles = {
 		  "href": "https://fasterthanli.me/articles/whats-in-the-box"
 	  },
 	  {
+		  "title": "C Isn't A Programming Language Anymore",
+		  "href": "https://gankra.github.io/blah/c-isnt-a-language/"
+	  },
+	  {
 		  "title": "Teaching by filling in knowledge gaps",
 		  "prio": 3,
 		  "href": "https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps"
