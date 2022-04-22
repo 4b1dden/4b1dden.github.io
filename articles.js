@@ -40,6 +40,10 @@ const articles = {
 		  "title": "It takes a PhD to develop that",
 		  "href": "https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/"
 	  },
+	  {
+		  "title": "One-line drawings",
+		  "href": "https://schollz.com/blog/one-line/"
+	  },
     {
       "title": "What I've Learned in 45 Years in the Software Industry",
       "href": "https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry"
