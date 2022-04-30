@@ -41,6 +41,10 @@ const articles = {
 		  "href": "https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/"
 	  },
 	  {
+		  "title": "Lies we tell ourselves to keep using Golang",
+		  "href": "https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang"
+	  },
+	  {
 		  "title": "One-line drawings",
 		  "href": "https://schollz.com/blog/one-line/"
 	  },
