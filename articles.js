@@ -70,6 +70,10 @@ const articles = {
 		  "href": "https://astralcodexten.substack.com/p/heuristics-that-almost-always-work"
 	  },
 	  {
+		  "title": "My story on 'worse is better'",
+		  "href": "https://www.sigbus.info/worse-is-better"
+	  },
+	  {
 		  "title": "The Code Review Pyramid",
 		  "href": "https://www.morling.dev/blog/the-code-review-pyramid/?utm_source=hackernewsletter&utm_medium=email&utm_term=code",
 	  },
