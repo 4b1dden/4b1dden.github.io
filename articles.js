@@ -150,6 +150,10 @@ const articles = {
 		  "href": "https://teachyourselfcs.com/"
 	  },
 	  {
+		  "title": "Open source alternative to",
+		  "href": "https://www.opensourcealternative.to/"
+	  },
+	  {
 		  "title": "Mind Expanding Books",
 		  "href": "https://github.com/hackerkid/Mind-Expanding-Books"
 	  }
