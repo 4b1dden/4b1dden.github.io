@@ -1,2 +1,2 @@
 # my_page
-my page
+hosted on [foliafolie.com](foliafolie.com)
