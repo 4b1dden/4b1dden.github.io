@@ -10,6 +10,11 @@ const articles = {
       "href": "https://blog.tjcx.me/p/consume-less-create-more",
       "prio": 2
     },
+      {
+          "title": "Grug brain dev",
+          "href": "https://grugbrain.dev/",
+          "prio": 3,
+      },
 	  {
 		  "title": "The Intellectual Incoherence of Cryptoassets",
 		  "href": "https://www.stephendiehl.com/blog/crypto-absurd.html",
