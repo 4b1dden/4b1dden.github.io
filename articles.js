@@ -37,6 +37,10 @@ const articles = {
 		  "title": "Linear Algebra Guide",
 		  "href": "https://betterexplained.com/articles/linear-algebra-guide/"
 	  },
+      {
+          "title": "Some Assembly Required",
+          "href": "https://github.com/hackclub/some-assembly-required/",
+      },
 	  {
 		  "title": "A Visual Intuitive Guide to Imaginary Numbers",
 		  "href": "https://betterexplained.com/articles/a-visual-intuitive-guide-to-imaginary-numbers/"
