@@ -41,6 +41,10 @@ const articles = {
           "title": "Some Assembly Required",
           "href": "https://github.com/hackclub/some-assembly-required/",
       },
+      {
+          "title": "The Rust Performance Book",
+          "href": "https://nnethercote.github.io/perf-book",
+      },
 	  {
 		  "title": "A Visual Intuitive Guide to Imaginary Numbers",
 		  "href": "https://betterexplained.com/articles/a-visual-intuitive-guide-to-imaginary-numbers/"
