@@ -24,7 +24,10 @@ const articles = {
 		  "title": "code comes in, art comes out",
 		  "href": "https://tylerxhobbs.com/essays/2019/code-goes-in-art-comes-out",
 	  },
-
+      {
+        "title": "Build UNIX, not Uber",
+        "href": "https://thesephist.com/posts/legacy/"
+      },
     {
       "title": "How I experience web today",
       "href": "https://how-i-experience-web-today.com/",
