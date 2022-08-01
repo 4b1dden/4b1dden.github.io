@@ -11,6 +11,11 @@ const articles = {
       "prio": 2
     },
       {
+          "title": "GPS (Reconstructed)",
+          "href": "https://ciechanow.ski/gps/",
+          "prio": 3
+      },
+      {
           "title": "Grug brain dev",
           "href": "https://grugbrain.dev/",
           "prio": 3,
