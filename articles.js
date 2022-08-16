@@ -175,6 +175,10 @@ const articles = {
 		  "href": "https://www.opensourcealternative.to/"
 	  },
 	  {
+		  "title": "Practical Deep Learning for Coders",
+		  "href": "https://course.fast.ai/"
+	  },
+	  {
 		  "title": "Mind Expanding Books",
 		  "href": "https://github.com/hackerkid/Mind-Expanding-Books"
 	  }
