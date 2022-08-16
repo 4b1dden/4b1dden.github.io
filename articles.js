@@ -53,6 +53,10 @@ const articles = {
 		  "title": "Meditations on Moloch",
 		  "href": "https://slatestarcodex.com/2014/07/30/meditations-on-moloch/"
 	  },
+	  {
+		  "title": "Ontology of Psychiatric Conditions",
+		  "href": "https://astralcodexten.substack.com/p/ontology-of-psychiatric-conditions"
+	  },
       {
           "title": "The Rust Performance Book",
           "href": "https://nnethercote.github.io/perf-book",
