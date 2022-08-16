@@ -175,8 +175,12 @@ const articles = {
 		  "href": "https://www.opensourcealternative.to/"
 	  },
 	  {
-		  "title": "Practical Deep Learning for Coders",
+		  "title": "Practical Deep Learning for Coders (mostly practical)",
 		  "href": "https://course.fast.ai/"
+	  },
+	  {
+		  "title": "DeepLearning.ai (mostly theoretical, should compliment .fast.ai course^ nicely)",
+		  "href": "https://www.deeplearning.ai/"
 	  },
 	  {
 		  "title": "Mind Expanding Books",
