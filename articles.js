@@ -49,6 +49,10 @@ const articles = {
           "title": "Some Assembly Required",
           "href": "https://github.com/hackclub/some-assembly-required/",
       },
+	  {
+		  "title": "Meditations on Moloch",
+		  "href": "https://slatestarcodex.com/2014/07/30/meditations-on-moloch/"
+	  },
       {
           "title": "The Rust Performance Book",
           "href": "https://nnethercote.github.io/perf-book",
