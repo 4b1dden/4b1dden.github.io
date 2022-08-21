@@ -57,6 +57,10 @@ const articles = {
 		  "title": "Ontology of Psychiatric Conditions",
 		  "href": "https://astralcodexten.substack.com/p/ontology-of-psychiatric-conditions"
 	  },
+	  {
+		  "title": "On Being Busy",
+		  "href": "https://blog.aadilali.com/posts/busy.html"
+	  },
       {
           "title": "The Rust Performance Book",
           "href": "https://nnethercote.github.io/perf-book",
