@@ -21,6 +21,11 @@ const articles = {
           "prio": 3,
       },
 	  {
+		  "title": "Church of Interruption",
+		  "href": "https://sambleckley.com/writing/church-of-interruption.html",
+		  "prio": 6 
+	  },
+	  {
 		  "title": "The Intellectual Incoherence of Cryptoassets",
 		  "href": "https://www.stephendiehl.com/blog/crypto-absurd.html",
 		  "prio": 3
