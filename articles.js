@@ -38,6 +38,10 @@ const articles = {
         "title": "Build UNIX, not Uber",
         "href": "https://thesephist.com/posts/legacy/"
       },
+	  {
+		  "title": "The Cursed Computer Science Iceberg",
+		  "href": "https://suricrasia.online/iceberg/"
+	  },
     {
       "title": "How I experience web today",
       "href": "https://how-i-experience-web-today.com/",
