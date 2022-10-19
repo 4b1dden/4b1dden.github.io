@@ -42,6 +42,10 @@ const articles = {
 		  "title": "The Cursed Computer Science Iceberg",
 		  "href": "https://suricrasia.online/iceberg/"
 	  },
+		{
+			"title": "Hackers and Painters",
+			"href": "http://www.paulgraham.com/hp.html"
+		},
     {
       "title": "How I experience web today",
       "href": "https://how-i-experience-web-today.com/",
